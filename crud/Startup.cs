@@ -27,7 +27,8 @@ namespace crud
             
             services.AddMvc();
 
-            var connection = "server=localhost;port=3306;database=crud;uid=new_user;password=user_password";
+            var connection = Environment.GetEnvironmentVariable("connection");
+
             services.AddDbContext<crudContext>(options => options.UseMySql(connection));
         }
 
