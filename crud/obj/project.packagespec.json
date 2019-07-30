@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/home/todd/Projects/crud/crud/crud.csproj",
+    "projectUniqueName": "/home/todd/play/crud-dotnet/crud/crud.csproj",
     "projectName": "crud",
-    "projectPath": "/home/todd/Projects/crud/crud/crud.csproj",
-    "outputPath": "/home/todd/Projects/crud/crud/obj/",
+    "projectPath": "/home/todd/play/crud-dotnet/crud/crud.csproj",
+    "outputPath": "/home/todd/play/crud-dotnet/crud/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/share/dotnet/sdk/NuGetFallbackFolder"

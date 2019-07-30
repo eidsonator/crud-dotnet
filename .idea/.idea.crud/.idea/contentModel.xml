@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$USER_HOME$/.Rider2019.1/system/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/.Rider2019.1/system/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_crud.164942593.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.1/system/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_crud.740163660.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="crud" t="IncludeRecursive">
         <e p="Controllers" t="Include">
@@ -116,6 +116,9 @@
       </e>
       <e p="crud.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="c:\temp" t="Include">
+      <e p="internal-nlog.txt" t="Include" />
     </e>
   </component>
 </project>
