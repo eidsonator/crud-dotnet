@@ -7,9 +7,12 @@
       <e p="crud" t="IncludeRecursive">
         <e p="Controllers" t="Include">
           <e p="HomeController.cs" t="Include" />
+          <e p="PersonController.cs" t="Include" />
         </e>
         <e p="Models" t="Include">
           <e p="ErrorViewModel.cs" t="Include" />
+          <e p="Person.cs" t="Include" />
+          <e p="crudContext.cs" t="Include" />
         </e>
         <e p="Program.cs" t="Include" />
         <e p="Startup.cs" t="Include" />
@@ -17,6 +20,17 @@
           <e p="Home" t="Include">
             <e p="About.cshtml" t="Include" />
             <e p="Contact.cshtml" t="Include" />
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Person" t="Include">
+            <e p="Create.cshtml" t="Include" />
+            <e p="Create.cshtml.cs" t="Include" />
+            <e p="Delete.cshtml" t="Include" />
+            <e p="Delete.cshtml.cs" t="Include" />
+            <e p="Details.cshtml" t="Include" />
+            <e p="Details.cshtml.cs" t="Include" />
+            <e p="Edit.cshtml" t="Include" />
+            <e p="Edit.cshtml.cs" t="Include" />
             <e p="Index.cshtml" t="Include" />
           </e>
           <e p="Shared" t="Include">

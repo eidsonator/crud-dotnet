@@ -2,8 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41f016cd-f696-42da-b455-50ba9904dfa1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/crud/Controllers/PersonController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/Views/Person/Create.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/Views/Person/Delete.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/Views/Person/Details.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/Views/Person/Edit.cshtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/Views/Person/Index.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.crud/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.crud/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.crud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.crud/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/crud/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/Views/Shared/_Layout.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/crud/Views/Shared/_Layout.cshtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/app.config" beforeDir="false" afterPath="$PROJECT_DIR$/crud/app.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/crud.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/crud.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/crud.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/crud.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/crud.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/crud.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/crud.dll" beforeDir="false" afterPath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/crud.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/crud.dll.config" beforeDir="false" afterPath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/crud.dll.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/crud.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/crud.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/nlog-all-2019-07-30.log" beforeDir="false" afterPath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/nlog-all-2019-07-30.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/nlog-own-2019-07-30.log" beforeDir="false" afterPath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.2/nlog-own-2019-07-30.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/crud/crud.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/crud/crud.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/internal-nlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/crud/internal-nlog.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.RazorCoreGenerate.cache" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.RazorCoreGenerate.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.Views.dll" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.Views.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.Views.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.Views.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.dll" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.2/crud.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/crud.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/crud.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/crud.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/crud.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/project.packagespec.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,57 +47,85 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crud/Views/Home/Index.cshtml">
+        <entry file="file://$PROJECT_DIR$/crud/Controllers/PersonController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="442">
+              <caret line="101" column="49" lean-forward="true" selection-start-line="101" selection-start-column="49" selection-end-line="101" selection-end-column="49" />
               <folding>
-                <marker date="1564481640180" expanded="true" signature="0:41" ph="@..." />
+                <marker date="1564508308505" expanded="true" signature="6:136" ph="..." />
+                <marker date="1564508308505" expanded="true" signature="164:4191" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="213:4189" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="320:372" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="446:528" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="628:971" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="666:729" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="864:927" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="1040:1087" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="1097:1306" ph="/* POST: Person/Create ... */" />
+                <marker date="1564508308505" expanded="true" signature="1446:1708" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="1492:1665" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="1811:2113" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="1849:1912" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="2007:2070" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="2123:2332" ph="/* POST: Person/Edit/5 ... */" />
+                <marker date="1564508308505" expanded="true" signature="2478:3230" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="2521:2584" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="2621:3187" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="2655:2791" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="2844:3117" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="2912:2999" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="3024:3099" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="3320:3663" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="3358:3421" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="3556:3619" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="3838:4063" ph="{...}" />
+                <marker date="1564508308505" expanded="true" signature="4106:4183" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crud/nlog.config">
+        <entry file="file://$PROJECT_DIR$/crud/Views/Person/Create.cshtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crud/internal-nlog.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/crud/crud.csproj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crud/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="49" column="73" selection-start-line="49" selection-start-column="73" selection-end-line="49" selection-end-column="73" />
+            <state relative-caret-position="285">
+              <caret line="19" column="74" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
               <folding>
-                <marker date="1564481640179" expanded="false" signature="6:307" ph="..." />
-                <marker date="1564481640179" expanded="true" signature="323:1958" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="350:1956" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="403:1294" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="601:768" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="805:993" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="1017:1233" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="1520:1675" ph="{...}" />
+                <marker date="1564509038295" expanded="true" signature="15:53" ph="@..." />
+                <marker date="1564509038295" expanded="true" signature="779:866" ph="@{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/Views/Person/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="114" selection-start-line="27" selection-start-column="114" selection-end-line="27" selection-end-column="114" />
+              <folding>
+                <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+                <marker date="1564509407500" expanded="true" signature="28:32" ph="@..." />
+                <marker date="1564509407500" expanded="true" signature="358:921" ph="@..." />
+                <marker date="1564509407500" expanded="true" signature="387:921" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/Models/crudContext.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <marker date="1564510928475" expanded="false" signature="6:96" ph="..." />
+                <marker date="1564510928475" expanded="true" signature="119:908" ph="{...}" />
+                <marker date="1564510928475" expanded="true" signature="170:906" ph="{...}" />
+                <marker date="1564510928475" expanded="true" signature="205:225" ph="{...}" />
+                <marker date="1564510928475" expanded="true" signature="320:340" ph="{...}" />
+                <marker date="1564510928475" expanded="true" signature="475:900" ph="{...}" />
+                <marker date="1564510928475" expanded="true" signature="548:888" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -80,54 +141,60 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crud/Controllers/HomeController.cs">
+        <entry file="file://$PROJECT_DIR$/crud/app.config">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-              <folding>
-                <marker date="1564482415641" expanded="false" signature="6:251" ph="..." />
-                <marker date="1564482415641" expanded="true" signature="279:1136" ph="{...}" />
-                <marker date="1564482415641" expanded="true" signature="326:1134" ph="{...}" />
-                <marker date="1564482415641" expanded="true" signature="453:503" ph="{...}" />
-                <marker date="1564482415641" expanded="true" signature="549:657" ph="{...}" />
-                <marker date="1564482415641" expanded="true" signature="695:815" ph="{...}" />
-                <marker date="1564482415641" expanded="true" signature="855:959" ph="{...}" />
-                <marker date="1564482415641" expanded="true" signature="997:1128" ph="{...}" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/crud.sln">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crud/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+            <state relative-caret-position="206">
+              <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
               <folding>
-                <marker date="1564481640179" expanded="false" signature="6:258" ph="..." />
-                <marker date="1564481640179" expanded="true" signature="274:1370" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="301:1368" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="360:423" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="646:697" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="885:1362" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="932:1009" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="1026:1110" ph="{...}" />
-                <marker date="1564481640179" expanded="true" signature="1192:1350" ph="{...}" />
+                <marker date="1564511652337" expanded="true" signature="6:314" ph="..." />
+                <marker date="1564511652337" expanded="true" signature="330:1738" ph="{...}" />
+                <marker date="1564511652337" expanded="true" signature="357:1736" ph="{...}" />
+                <marker date="1564511652337" expanded="true" signature="416:479" ph="{...}" />
+                <marker date="1564511652337" expanded="true" signature="702:1008" ph="{...}" />
+                <marker date="1564511652337" expanded="true" signature="1196:1730" ph="{...}" />
+                <marker date="1564511652337" expanded="true" signature="1300:1377" ph="{...}" />
+                <marker date="1564511652337" expanded="true" signature="1394:1478" ph="{...}" />
+                <marker date="1564511652337" expanded="true" signature="1560:1718" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/Views/Person/Edit.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <marker date="1564508889332" expanded="true" signature="762:849" ph="@{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/Views/Person/Details.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/Views/Person/Delete.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -139,18 +206,46 @@
       <find>Packa</find>
       <find>Index p</find>
       <find>target</find>
+      <find>blog</find>
+      <find>Persons</find>
+      <find>Blog</find>
+      <find>Url</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>person</replace>
+      <replace>Person</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/crud/Views/Person</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/crud/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Views/Person/Delete.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Views/Person/Edit.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Views/Person/Edit.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/crud/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/app.config" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/crud/Views/Home/Contact.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/crud/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/crud/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Views/Home/About.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/crud/nlog.config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Models/ErrorViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Models/crudContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Models/Person.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Controllers/PersonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Views/Person/Index.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Views/Person/Create.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Views/Person/Create.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Views/Person/Details.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Views/Person/Details.cshtml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/crud/Views/Person/Delete.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -161,6 +256,20 @@
         <option value="$PROJECT_DIR$/crud/nlog.config" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/crud/crud.csproj" />
+        <option value="$PROJECT_DIR$/crud/Views/Person/Create.cshtml.cs" />
+        <option value="$PROJECT_DIR$/crud/Views/Person/Details.cshtml.cs" />
+        <option value="$PROJECT_DIR$/crud/Views/Person/Delete.cshtml.cs" />
+        <option value="$PROJECT_DIR$/crud/Views/Person/Edit.cshtml.cs" />
+        <option value="$PROJECT_DIR$/crud/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/crud/Controllers/PersonController.cs" />
+        <option value="$PROJECT_DIR$/crud/Views/Person/Edit.cshtml" />
+        <option value="$PROJECT_DIR$/crud/Views/Person/Create.cshtml" />
+        <option value="$PROJECT_DIR$/crud/Views/Person/Delete.cshtml" />
+        <option value="$PROJECT_DIR$/crud/Views/Person/Details.cshtml" />
+        <option value="$PROJECT_DIR$/crud/Views/Person/Index.cshtml" />
+        <option value="$PROJECT_DIR$/crud/Models/crudContext.cs" />
+        <option value="$PROJECT_DIR$/crud/app.config" />
+        <option value="$PROJECT_DIR$/crud/Startup.cs" />
       </list>
     </option>
   </component>
@@ -178,11 +287,64 @@
     <option name="height" value="1055" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Controllers" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Models" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Home" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Person" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="crud" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Shared" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
         <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
@@ -205,6 +367,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -257,12 +420,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564445240131</updated>
       <workItem from="1564445241507" duration="1055000" />
-      <workItem from="1564481766947" duration="3473000" />
+      <workItem from="1564481766947" duration="16570000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4528000" />
+    <option name="totallyTimeSpent" value="17625000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -277,30 +440,30 @@
     <frame x="1920" y="-1" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32867885" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32867885" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39957035" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3298479" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32975295" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="REST Client" order="13" />
-      <window_info anchor="bottom" id="Terminal" order="14" visible="true" weight="0.32867885" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32867885" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="16" weight="0.32867885" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32977587" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
@@ -351,22 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crud/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crud/Views/Home/Index.cshtml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <marker date="1564481640180" expanded="true" signature="0:41" ph="@..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crud/nlog.config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -377,24 +524,7 @@
     <entry file="file://$PROJECT_DIR$/crud/internal-nlog.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/crud/Controllers/HomeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="19" column="29" lean-forward="true" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
-          <folding>
-            <marker date="1564482415641" expanded="false" signature="6:251" ph="..." />
-            <marker date="1564482415641" expanded="true" signature="279:1136" ph="{...}" />
-            <marker date="1564482415641" expanded="true" signature="326:1134" ph="{...}" />
-            <marker date="1564482415641" expanded="true" signature="453:503" ph="{...}" />
-            <marker date="1564482415641" expanded="true" signature="549:657" ph="{...}" />
-            <marker date="1564482415641" expanded="true" signature="695:815" ph="{...}" />
-            <marker date="1564482415641" expanded="true" signature="855:959" ph="{...}" />
-            <marker date="1564482415641" expanded="true" signature="997:1128" ph="{...}" />
-          </folding>
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -408,28 +538,251 @@
     <entry file="file://$PROJECT_DIR$/crud.sln">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/crud/Startup.cs">
+    <entry file="file://$PROJECT_DIR$/crud/crud.csproj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+        <state relative-caret-position="240">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Models/ErrorViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
           <folding>
-            <marker date="1564481640179" expanded="false" signature="6:258" ph="..." />
-            <marker date="1564481640179" expanded="true" signature="274:1370" ph="{...}" />
-            <marker date="1564481640179" expanded="true" signature="301:1368" ph="{...}" />
-            <marker date="1564481640179" expanded="true" signature="360:423" ph="{...}" />
-            <marker date="1564481640179" expanded="true" signature="646:697" ph="{...}" />
-            <marker date="1564481640179" expanded="true" signature="885:1362" ph="{...}" />
-            <marker date="1564481640179" expanded="true" signature="932:1009" ph="{...}" />
-            <marker date="1564481640179" expanded="true" signature="1026:1110" ph="{...}" />
-            <marker date="1564481640179" expanded="true" signature="1192:1350" ph="{...}" />
+            <marker date="1564481640179" expanded="true" signature="36:202" ph="{...}" />
+            <marker date="1564481640179" expanded="true" signature="70:200" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/crud/crud.csproj">
+    <entry file="file://$PROJECT_DIR$/crud/Views/Person/Details.cshtml.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+        <state>
+          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Views/Person/Delete.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Views/Person/Edit.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Views/Person/Create.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <marker date="1564501716495" expanded="true" signature="71:184" ph="{...}" />
+            <marker date="1564501716495" expanded="true" signature="109:182" ph="{...}" />
+            <marker date="1564501716495" expanded="true" signature="143:176" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="19" column="29" selection-start-line="19" selection-start-column="29" selection-end-line="19" selection-end-column="29" />
+          <folding>
+            <marker date="1564482415641" expanded="false" signature="6:251" ph="..." />
+            <marker date="1564482415641" expanded="true" signature="279:1136" ph="{...}" />
+            <marker date="1564482415641" expanded="true" signature="326:1134" ph="{...}" />
+            <marker date="1564482415641" expanded="true" signature="453:503" ph="{...}" />
+            <marker date="1564482415641" expanded="true" signature="549:657" ph="{...}" />
+            <marker date="1564482415641" expanded="true" signature="695:815" ph="{...}" />
+            <marker date="1564482415641" expanded="true" signature="855:959" ph="{...}" />
+            <marker date="1564482415641" expanded="true" signature="997:1128" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Views/Home/Contact.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564481640179" expanded="true" signature="0:39" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1564481640180" expanded="true" signature="0:41" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Views/Home/About.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="5" selection-end-line="2" selection-end-column="1" />
+          <folding>
+            <marker date="1564481640179" expanded="true" signature="0:37" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="68" column="69" selection-start-line="68" selection-start-column="69" selection-end-line="68" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Models/Person.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <marker date="1564498013240" expanded="false" signature="6:47" ph="..." />
+            <marker date="1564498013240" expanded="true" signature="70:200" ph="{...}" />
+            <marker date="1564498013240" expanded="true" signature="104:198" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Controllers/PersonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="101" column="49" lean-forward="true" selection-start-line="101" selection-start-column="49" selection-end-line="101" selection-end-column="49" />
+          <folding>
+            <marker date="1564508308505" expanded="true" signature="6:136" ph="..." />
+            <marker date="1564508308505" expanded="true" signature="164:4191" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="213:4189" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="320:372" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="446:528" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="628:971" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="666:729" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="864:927" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="1040:1087" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="1097:1306" ph="/* POST: Person/Create ... */" />
+            <marker date="1564508308505" expanded="true" signature="1446:1708" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="1492:1665" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="1811:2113" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="1849:1912" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="2007:2070" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="2123:2332" ph="/* POST: Person/Edit/5 ... */" />
+            <marker date="1564508308505" expanded="true" signature="2478:3230" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="2521:2584" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="2621:3187" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="2655:2791" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="2844:3117" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="2912:2999" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="3024:3099" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="3320:3663" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="3358:3421" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="3556:3619" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="3838:4063" ph="{...}" />
+            <marker date="1564508308505" expanded="true" signature="4106:4183" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Views/Person/Delete.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="65" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Views/Person/Create.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="74" selection-start-line="19" selection-start-column="74" selection-end-line="19" selection-end-column="74" />
+          <folding>
+            <marker date="1564509038295" expanded="true" signature="15:53" ph="@..." />
+            <marker date="1564509038295" expanded="true" signature="779:866" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Views/Person/Edit.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <marker date="1564508889332" expanded="true" signature="762:849" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Views/Person/Details.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="67" selection-start-line="18" selection-start-column="67" selection-end-line="18" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Views/Person/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="114" selection-start-line="27" selection-start-column="114" selection-end-line="27" selection-end-column="114" />
+          <folding>
+            <element signature="n#style#0;n#p#0;n#!!top" expanded="true" />
+            <marker date="1564509407500" expanded="true" signature="28:32" ph="@..." />
+            <marker date="1564509407500" expanded="true" signature="358:921" ph="@..." />
+            <marker date="1564509407500" expanded="true" signature="387:921" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Models/crudContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1564510928475" expanded="false" signature="6:96" ph="..." />
+            <marker date="1564510928475" expanded="true" signature="119:908" ph="{...}" />
+            <marker date="1564510928475" expanded="true" signature="170:906" ph="{...}" />
+            <marker date="1564510928475" expanded="true" signature="205:225" ph="{...}" />
+            <marker date="1564510928475" expanded="true" signature="320:340" ph="{...}" />
+            <marker date="1564510928475" expanded="true" signature="475:900" ph="{...}" />
+            <marker date="1564510928475" expanded="true" signature="548:888" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/app.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
+          <folding>
+            <marker date="1564511652337" expanded="true" signature="6:314" ph="..." />
+            <marker date="1564511652337" expanded="true" signature="330:1738" ph="{...}" />
+            <marker date="1564511652337" expanded="true" signature="357:1736" ph="{...}" />
+            <marker date="1564511652337" expanded="true" signature="416:479" ph="{...}" />
+            <marker date="1564511652337" expanded="true" signature="702:1008" ph="{...}" />
+            <marker date="1564511652337" expanded="true" signature="1196:1730" ph="{...}" />
+            <marker date="1564511652337" expanded="true" signature="1300:1377" ph="{...}" />
+            <marker date="1564511652337" expanded="true" signature="1394:1478" ph="{...}" />
+            <marker date="1564511652337" expanded="true" signature="1560:1718" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>

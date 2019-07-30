@@ -1,0 +1,20 @@
+@model Person
+
+<h2>Details</h2>
+
+<div>
+    <h4>Person</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.FirstName)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a class="btn btn-warning" asp-action="Edit" asp-route-id="@Model.Id"><i class="fa fa-edit"></i> Edit</a> 
+    <a class="btn btn-info" asp-action="Index"><i class="fa fa-undo"></i> Back to List</a>
+</div>

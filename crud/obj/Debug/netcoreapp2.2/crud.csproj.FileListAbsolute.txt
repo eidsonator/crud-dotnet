@@ -30,3 +30,8 @@
 /home/todd/play/crud-dotnet/crud/obj/Debug/netcoreapp2.2/crud.dll
 /home/todd/play/crud-dotnet/crud/obj/Debug/netcoreapp2.2/crud.pdb
 /home/todd/play/crud-dotnet/crud/obj/Debug/netcoreapp2.2/crud.csproj.CopyComplete
+/home/todd/play/crud-dotnet/crud/obj/Debug/netcoreapp2.2/Razor/Views/Person/Index.g.cshtml.cs
+/home/todd/play/crud-dotnet/crud/obj/Debug/netcoreapp2.2/Razor/Views/Person/Create.g.cshtml.cs
+/home/todd/play/crud-dotnet/crud/obj/Debug/netcoreapp2.2/Razor/Views/Person/Delete.g.cshtml.cs
+/home/todd/play/crud-dotnet/crud/obj/Debug/netcoreapp2.2/Razor/Views/Person/Details.g.cshtml.cs
+/home/todd/play/crud-dotnet/crud/obj/Debug/netcoreapp2.2/Razor/Views/Person/Edit.g.cshtml.cs
