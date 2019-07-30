@@ -1,3 +1,3 @@
 # crud-dotnet
 
-A simple demo
+A simple crud demo
