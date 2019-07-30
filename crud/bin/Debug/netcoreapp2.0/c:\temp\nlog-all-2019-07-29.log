@@ -1,0 +1,81 @@
+2019-07-29 20:23:21.6265||DEBUG|crud.Program|init main 
+2019-07-29 20:23:21.9819||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using '/home/todd/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest. 
+2019-07-29 20:23:42.8417|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/   
+2019-07-29 20:23:42.9946|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method crud.Controllers.HomeController.Index (crud) with arguments ((null)) - ModelState is Valid 
+2019-07-29 20:23:42.9975||INFO|crud.Controllers.HomeController|Index page says hello 
+2019-07-29 20:23:44.5207|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.ViewResultExecutor|Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2019-07-29 20:23:44.8083|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action crud.Controllers.HomeController.Index (crud) in 1825.6729ms 
+2019-07-29 20:23:44.8134|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1984.2891ms 200 text/html; charset=utf-8 
+2019-07-29 20:23:44.8281|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/images/banner1.svg   
+2019-07-29 20:23:44.8297|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/css/site.min.css?v=kHvJwvVAK1eJLN4w8xygUR3nbvlLmRwi5yr-OuAO90E   
+2019-07-29 20:23:44.8297|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/images/banner2.svg   
+2019-07-29 20:23:44.8444|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /css/site.min.css was not modified 
+2019-07-29 20:23:44.8444|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /images/banner2.svg was not modified 
+2019-07-29 20:23:44.8444|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /images/banner1.svg was not modified 
+2019-07-29 20:23:44.8478|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 19.7092ms 304 image/svg+xml 
+2019-07-29 20:23:44.8478|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 18.1055ms 304 image/svg+xml 
+2019-07-29 20:23:44.8478|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 18.1071ms 304 text/css 
+2019-07-29 20:23:44.9294|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/js/site.min.js?v=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU   
+2019-07-29 20:23:44.9294|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/images/banner3.svg   
+2019-07-29 20:23:44.9294|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/images/banner4.svg   
+2019-07-29 20:23:44.9294|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /images/banner3.svg was not modified 
+2019-07-29 20:23:44.9294|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /images/banner4.svg was not modified 
+2019-07-29 20:23:44.9300|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 0.3619ms 304 image/svg+xml 
+2019-07-29 20:23:44.9300|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 0.5146ms 304 image/svg+xml 
+2019-07-29 20:23:44.9294|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /js/site.min.js was not modified 
+2019-07-29 20:23:44.9309|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1.5095ms 304 application/javascript 
+2019-07-29 20:24:25.3161||DEBUG|crud.Program|init main 
+2019-07-29 20:24:25.6514||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using '/home/todd/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest. 
+2019-07-29 20:24:33.9751|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/   
+2019-07-29 20:24:34.0698|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method crud.Controllers.HomeController.Index (crud) with arguments ((null)) - ModelState is Valid 
+2019-07-29 20:24:34.0721||INFO|crud.Controllers.HomeController|Index page says hello 
+2019-07-29 20:24:35.5237|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.ViewResultExecutor|Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2019-07-29 20:24:35.7912|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action crud.Controllers.HomeController.Index (crud) in 1728.7754ms 
+2019-07-29 20:24:35.7984|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1829.2368ms 200 text/html; charset=utf-8 
+2019-07-29 20:24:35.8877|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/favicon.ico   
+2019-07-29 20:24:35.8955|2|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/favicon.ico'. Physical path: '/home/todd/Projects/crud/crud/wwwroot/favicon.ico' 
+2019-07-29 20:24:35.9034|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 15.6752ms 200 image/x-icon 
+2019-07-29 20:25:01.8598||DEBUG|crud.Program|init main 
+2019-07-29 20:25:02.1515||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using '/home/todd/.aspnet/DataProtection-Keys' as key repository; keys will not be encrypted at rest. 
+2019-07-29 20:25:04.4817|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/   
+2019-07-29 20:25:04.5836|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method crud.Controllers.HomeController.Index (crud) with arguments ((null)) - ModelState is Valid 
+2019-07-29 20:25:04.5859||INFO|crud.Controllers.HomeController|Index page says hello 
+2019-07-29 20:25:06.0615|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.ViewResultExecutor|Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2019-07-29 20:25:06.3678|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action crud.Controllers.HomeController.Index (crud) in 1794.5716ms 
+2019-07-29 20:25:06.3738|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1897.2029ms 200 text/html; charset=utf-8 
+2019-07-29 20:25:14.1983|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/   
+2019-07-29 20:25:14.2002|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method crud.Controllers.HomeController.Index (crud) with arguments ((null)) - ModelState is Valid 
+2019-07-29 20:25:14.2002||INFO|crud.Controllers.HomeController|Index page says hello 
+2019-07-29 20:25:14.2017|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.ViewResultExecutor|Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2019-07-29 20:25:14.2048|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action crud.Controllers.HomeController.Index (crud) in 5.2267ms 
+2019-07-29 20:25:14.2051|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 6.7799ms 200 text/html; charset=utf-8 
+2019-07-29 20:25:16.1414|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/   
+2019-07-29 20:25:16.1414|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method crud.Controllers.HomeController.Index (crud) with arguments ((null)) - ModelState is Valid 
+2019-07-29 20:25:16.1414||INFO|crud.Controllers.HomeController|Index page says hello 
+2019-07-29 20:25:16.1419|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.ViewResultExecutor|Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2019-07-29 20:25:16.1419|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action crud.Controllers.HomeController.Index (crud) in 1.226ms 
+2019-07-29 20:25:16.1430|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1.6246ms 200 text/html; charset=utf-8 
+2019-07-29 20:26:03.4157|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/   
+2019-07-29 20:26:03.4161|1|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executing action method crud.Controllers.HomeController.Index (crud) with arguments ((null)) - ModelState is Valid 
+2019-07-29 20:26:03.4161||INFO|crud.Controllers.HomeController|Index page says hello 
+2019-07-29 20:26:03.4161|1|INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.Internal.ViewResultExecutor|Executing ViewResult, running view at path /Views/Home/Index.cshtml. 
+2019-07-29 20:26:03.4171|2|INFO|Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker|Executed action crud.Controllers.HomeController.Index (crud) in 1.105ms 
+2019-07-29 20:26:03.4171|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1.5176ms 200 text/html; charset=utf-8 
+2019-07-29 20:26:03.4379|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/css/site.min.css?v=kHvJwvVAK1eJLN4w8xygUR3nbvlLmRwi5yr-OuAO90E   
+2019-07-29 20:26:03.4387|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/images/banner1.svg   
+2019-07-29 20:26:03.4387|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/images/banner2.svg   
+2019-07-29 20:26:03.4553|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /images/banner2.svg was not modified 
+2019-07-29 20:26:03.4553|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /css/site.min.css was not modified 
+2019-07-29 20:26:03.4553|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /images/banner1.svg was not modified 
+2019-07-29 20:26:03.4617|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 22.9881ms 304 image/svg+xml 
+2019-07-29 20:26:03.4622|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 23.2709ms 304 image/svg+xml 
+2019-07-29 20:26:03.4622|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 24.3026ms 304 text/css 
+2019-07-29 20:26:03.5548|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/js/site.min.js?v=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU   
+2019-07-29 20:26:03.5548|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/images/banner4.svg   
+2019-07-29 20:26:03.5551|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /js/site.min.js was not modified 
+2019-07-29 20:26:03.5551|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /images/banner4.svg was not modified 
+2019-07-29 20:26:03.5551|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 0.5086ms 304 application/javascript 
+2019-07-29 20:26:03.5551|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 0.4781ms 304 image/svg+xml 
+2019-07-29 20:26:03.5548|1|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request starting HTTP/1.1 GET http://localhost:5000/images/banner3.svg   
+2019-07-29 20:26:03.5562|6|INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The file /images/banner3.svg was not modified 
+2019-07-29 20:26:03.5562|2|INFO|Microsoft.AspNetCore.Hosting.Internal.WebHost|Request finished in 1.6029ms 304 image/svg+xml 

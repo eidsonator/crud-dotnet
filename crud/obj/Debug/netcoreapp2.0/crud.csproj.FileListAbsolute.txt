@@ -1,0 +1,12 @@
+/home/todd/Projects/crud/crud/bin/Debug/netcoreapp2.0/crud.dll.config
+/home/todd/Projects/crud/crud/bin/Debug/netcoreapp2.0/crud.deps.json
+/home/todd/Projects/crud/crud/bin/Debug/netcoreapp2.0/crud.runtimeconfig.json
+/home/todd/Projects/crud/crud/bin/Debug/netcoreapp2.0/crud.runtimeconfig.dev.json
+/home/todd/Projects/crud/crud/bin/Debug/netcoreapp2.0/crud.dll
+/home/todd/Projects/crud/crud/bin/Debug/netcoreapp2.0/crud.pdb
+/home/todd/Projects/crud/crud/obj/Debug/netcoreapp2.0/crud.csproj.CoreCompileInputs.cache
+/home/todd/Projects/crud/crud/obj/Debug/netcoreapp2.0/crud.AssemblyInfoInputs.cache
+/home/todd/Projects/crud/crud/obj/Debug/netcoreapp2.0/crud.AssemblyInfo.cs
+/home/todd/Projects/crud/crud/obj/Debug/netcoreapp2.0/crud.dll
+/home/todd/Projects/crud/crud/obj/Debug/netcoreapp2.0/crud.pdb
+/home/todd/Projects/crud/crud/bin/Debug/netcoreapp2.0/nlog.config
