@@ -1,0 +1,2 @@
+2019-07-30 07:38:55.3071||DEBUG|crud.Program|init main |url: |action: 
+2019-07-30 07:39:22.8285||INFO|crud.Controllers.HomeController|Index page says hello |url: http://localhost/|action: Index

@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41f016cd-f696-42da-b455-50ba9904dfa1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.crud/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.crud/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.crud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.crud/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.crud/riderModule.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.crud/riderModule.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.0/crud.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.0/crud.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.0/crud.dll" beforeDir="false" afterPath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.0/crud.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.0/crud.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.0/crud.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.0/nlog.config" beforeDir="false" afterPath="$PROJECT_DIR$/crud/bin/Debug/netcoreapp2.0/nlog.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/internal-nlog.txt" beforeDir="false" afterPath="$PROJECT_DIR$/crud/internal-nlog.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/nlog.config" beforeDir="false" afterPath="$PROJECT_DIR$/crud/nlog.config" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.0/crud.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.0/crud.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.0/crud.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.0/crud.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.0/crud.dll" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.0/crud.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.0/crud.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/Debug/netcoreapp2.0/crud.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/obj/crud.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/crud.csproj.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/obj/crud.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/crud.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/crud/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/crud/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/crud.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/crud/crud.csproj" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/crud/crud.csproj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="180">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -114,11 +98,36 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="13" selection-start-column="13" selection-end-column="13" />
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud.sln">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crud/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+              <folding>
+                <marker date="1564481640179" expanded="false" signature="6:258" ph="..." />
+                <marker date="1564481640179" expanded="true" signature="274:1370" ph="{...}" />
+                <marker date="1564481640179" expanded="true" signature="301:1368" ph="{...}" />
+                <marker date="1564481640179" expanded="true" signature="360:423" ph="{...}" />
+                <marker date="1564481640179" expanded="true" signature="646:697" ph="{...}" />
+                <marker date="1564481640179" expanded="true" signature="885:1362" ph="{...}" />
+                <marker date="1564481640179" expanded="true" signature="932:1009" ph="{...}" />
+                <marker date="1564481640179" expanded="true" signature="1026:1110" ph="{...}" />
+                <marker date="1564481640179" expanded="true" signature="1192:1350" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -129,6 +138,7 @@
     <findStrings>
       <find>Packa</find>
       <find>Index p</find>
+      <find>target</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -145,12 +155,12 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/crud/crud.csproj" />
         <option value="$PROJECT_DIR$/crud/Program.cs" />
         <option value="$PROJECT_DIR$/crud/appsettings.json" />
         <option value="$PROJECT_DIR$/crud/Controllers/HomeController.cs" />
         <option value="$PROJECT_DIR$/crud/nlog.config" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/crud/crud.csproj" />
       </list>
     </option>
   </component>
@@ -182,6 +192,11 @@
             <path>
               <item name="" type="161ac34:FileSystemExplorerRootNode" />
               <item name="crud-dotnet" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="crud-dotnet" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="crud" type="34e6ba20:FileSystemExplorerNode" />
             </path>
           </expand>
           <select />
@@ -242,12 +257,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564445240131</updated>
       <workItem from="1564445241507" duration="1055000" />
-      <workItem from="1564481766947" duration="1962000" />
+      <workItem from="1564481766947" duration="3473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3017000" />
+    <option name="totallyTimeSpent" value="4528000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -268,7 +283,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32867885" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.39957035" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957035" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -279,7 +294,7 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="REST Client" order="13" />
-      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32953465" />
+      <window_info anchor="bottom" id="Terminal" order="14" visible="true" weight="0.32867885" />
       <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="16" weight="0.32867885" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -319,13 +334,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/crud/crud.csproj">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/crud/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -392,8 +400,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="31" column="48" lean-forward="true" selection-start-line="31" selection-start-column="48" selection-end-line="31" selection-end-column="48" />
+          <folding>
+            <marker date="1564481640179" expanded="false" signature="6:258" ph="..." />
+            <marker date="1564481640179" expanded="true" signature="274:1370" ph="{...}" />
+            <marker date="1564481640179" expanded="true" signature="301:1368" ph="{...}" />
+            <marker date="1564481640179" expanded="true" signature="360:423" ph="{...}" />
+            <marker date="1564481640179" expanded="true" signature="646:697" ph="{...}" />
+            <marker date="1564481640179" expanded="true" signature="885:1362" ph="{...}" />
+            <marker date="1564481640179" expanded="true" signature="932:1009" ph="{...}" />
+            <marker date="1564481640179" expanded="true" signature="1026:1110" ph="{...}" />
+            <marker date="1564481640179" expanded="true" signature="1192:1350" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crud/crud.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
