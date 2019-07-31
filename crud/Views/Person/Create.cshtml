@@ -16,8 +16,15 @@
                 <input asp-for="FirstName" class="form-control" />
                 <span asp-validation-for="FirstName" class="text-danger"></span>
             </div>
+            
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-success" />
+                <div class="g-recaptcha" data-sitekey="@ViewData["googleRecaptchaKey"]" data-callback="enableBtn"></div>    
+            </div>
+            
+
+            
+            <div class="form-group">
+                <button id="submit" class="btn btn-success" disabled=true>Create</button>
             </div>
         </form>
     </div>
@@ -29,4 +36,14 @@
 
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    
+    
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+
+    <script>
+        var enableBtn = function() {
+            document.getElementById("submit").disabled = false;
+        };
+    </script>
+    
 }

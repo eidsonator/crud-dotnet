@@ -1,18 +1,25 @@
+using System;
 using System.Linq;
 using System.Threading.Tasks;
 using crud.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.Logging.Console;
+using NLog;
+using ILogger = NLog.ILogger;
 
 namespace crud.Controllers
 {
     public class PersonController : Controller
     {
         private readonly crudContext _context;
+        private readonly ILogger<PersonController> _logger;
 
-        public PersonController(crudContext context)
+        public PersonController(crudContext context, ILogger<PersonController> logger)
         {
             _context = context;
+            _logger = logger;
         }
         
         // GET
@@ -42,6 +49,8 @@ namespace crud.Controllers
         // GET: Person/Create
         public IActionResult Create()
         {
+            ViewData["googleRecaptchaKey"] = Environment.GetEnvironmentVariable("googleRecaptchaKey");
+            
             return View();
         }
 
