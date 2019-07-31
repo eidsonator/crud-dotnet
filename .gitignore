@@ -2,4 +2,3 @@ bin/
 *.log
 .idea/
 obj/
-crud/crud.csproj
