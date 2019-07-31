@@ -1,5 +1,0 @@
-2019-07-30 06:16:33.7903||DEBUG|crud.Program|init main |url: |action: 
-2019-07-30 06:16:34.5079|35|WARN|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|No XML encryptor configured. Key {ec605df3-e341-42af-811a-6fccf9f7b39c} may be persisted to storage in unencrypted form. |url: |action: 
-2019-07-30 06:20:45.0492||INFO|crud.Controllers.HomeController|Index page says hello |url: http://localhost/|action: Index
-2019-07-30 06:21:46.3435||DEBUG|crud.Program|init main |url: |action: 
-2019-07-30 06:21:54.3657||TRACE|crud.Controllers.HomeController|Index page says hello |url: http://localhost/|action: Index

@@ -1,9 +1,0 @@
-2019-07-29 20:23:21.6265||DEBUG|crud.Program|init main |url: |action: 
-2019-07-29 20:23:42.9975||INFO|crud.Controllers.HomeController|Index page says hello |url: http://localhost/|action: Index
-2019-07-29 20:24:25.3161||DEBUG|crud.Program|init main |url: |action: 
-2019-07-29 20:24:34.0721||INFO|crud.Controllers.HomeController|Index page says hello |url: http://localhost/|action: Index
-2019-07-29 20:25:01.8598||DEBUG|crud.Program|init main |url: |action: 
-2019-07-29 20:25:04.5859||INFO|crud.Controllers.HomeController|Index page says hello |url: http://localhost/|action: Index
-2019-07-29 20:25:14.2002||INFO|crud.Controllers.HomeController|Index page says hello |url: http://localhost/|action: Index
-2019-07-29 20:25:16.1414||INFO|crud.Controllers.HomeController|Index page says hello |url: http://localhost/|action: Index
-2019-07-29 20:26:03.4161||INFO|crud.Controllers.HomeController|Index page says hello |url: http://localhost/|action: Index

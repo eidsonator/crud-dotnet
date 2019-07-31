@@ -1,7 +1,0 @@
-2019-07-30 06:23:03.8128||DEBUG|crud.Program|init main |url: |action: 
-2019-07-30 06:23:11.4541||TRACE|crud.Controllers.HomeController|Index page says hello |url: http://localhost/|action: Index
-2019-07-30 06:27:01.0664||DEBUG|crud.Program|init main |url: |action: 
-2019-07-30 06:27:06.5661||INFO|crud.Controllers.HomeController|Index page says hello |url: http://localhost/|action: Index
-2019-07-30 06:29:19.5575||DEBUG|crud.Program|init main |url: |action: 
-2019-07-30 06:30:11.1592||INFO|crud.Controllers.HomeController|Index page says hello |url: http://localhost/|action: Index
-2019-07-30 06:30:11.1686|22|WARN|Microsoft.AspNetCore.Server.Kestrel|Heartbeat took longer than "00:00:01" at "07/30/2019 10:30:11 +00:00". |url: |action: 
